@@ -1,8 +1,5 @@
-def saldacao (nome):
-return f'Tenha um ótimo final d semana, {nome} '
+def saudacao(nome):
+    return f'Olá, {nome} !'
 
-def soma (n1,n2)
- resultado = n1 + n2
- return(resultado)
 
-print (saudacao('Yasmin'))
+print (saudacao('Mundo'))
