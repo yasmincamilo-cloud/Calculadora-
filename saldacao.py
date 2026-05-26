@@ -1,5 +1,2 @@
-def saudacao(nome):
-    return f'Olá, {nome} !'
-
-
-print (saudacao('Mundo'))
+def despedida (nome):
+    return f'Até mais, {nome}!'
